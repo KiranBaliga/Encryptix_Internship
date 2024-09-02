@@ -1,4 +1,4 @@
-# Encryptix Python Internship
+# Encryptix Python Internship Sept 2024
 
 Welcome to my Python Programming Internship repository for Encryptix. This repository contains all the tasks I have completed as part of my internship journey. Below you will find a brief description of each task, along with instructions on how to run them.
 
